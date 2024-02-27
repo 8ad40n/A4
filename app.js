@@ -109,3 +109,5 @@ let obj= {
 console.log(password(obj));
 
 console.log(monthlySavings(100, [ 900 , 2700 , 3400]))
+
+
